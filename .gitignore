@@ -1,0 +1,21 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Visual Studio user state
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Local secrets
+.env
+*.pfx
+
+#settings
+.vscode/
+.vs/
+
+#docs
+*.pdf
